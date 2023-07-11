@@ -1,6 +1,6 @@
 <p><b>Olá eu sou o Wigny Oliveira</b> 👋😄</p> 
 
-- 🌱 Atualmente estou aprendendo Back-end com TypeORM na Kenzie Academy Brasil
+- 🌱 Desenvolvedor web Full Stack
 - 💬 Me pergunte algo sobre: JavaScript, React, HTML5, CSS3, TypeScript, NodeJs, NextJs
 - 😄 Pronúncia: "uiguini" xD
 
