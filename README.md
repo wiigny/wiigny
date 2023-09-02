@@ -2,7 +2,7 @@
 
 - 🌱 Desenvolvedor web Full Stack
 - 💬 Me pergunte algo sobre: JavaScript, React, HTML5, CSS3, TypeScript, NodeJs, NextJs
-- 😄 Pronúncia: "uiguini" xD
+- 😄 Pronúncia: "uiguini" 😵
 
 
 <div align="center">
